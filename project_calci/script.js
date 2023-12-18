@@ -26,11 +26,11 @@ if(target_link)
 {
     console.log('switch clicked');
 let target=document.getElementById('target_link');
-target.href="style.css";
+target.href="project_calci/style.css";
 }
 else{
     let target=document.getElementById('target_link');
-    target.href="style2.css"; 
+    target.href="project_calci/style2.css"; 
 }
 }
 
